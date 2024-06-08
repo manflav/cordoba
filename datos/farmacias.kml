@@ -1,0 +1,2307 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="farmacias" id="farmacias">
+	<SimpleField name="id_dera" type="float"></SimpleField>
+	<SimpleField name="nica" type="string"></SimpleField>
+	<SimpleField name="nombre" type="string"></SimpleField>
+	<SimpleField name="direccion" type="string"></SimpleField>
+	<SimpleField name="cod_mun" type="string"></SimpleField>
+	<SimpleField name="municipio" type="string"></SimpleField>
+	<SimpleField name="provincia" type="string"></SimpleField>
+</Schema>
+<Folder><name>farmacias</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400013366</SimpleData>
+		<SimpleData name="nica">18391</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30296   GARCIA ACEDO, RAFAEL Y GARCIA ACESO, AMPARO</SimpleData>
+		<SimpleData name="direccion">CALLE CUESTA DE LA POLVORA S/N</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.76498407203044,37.8796390550265</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400013349</SimpleData>
+		<SimpleData name="nica">5014</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30027 COLOMER INIESTA, INMACULADA - ARENAS COLOMER, HORACIO, ARENAS COLOMER, ALVARO</SimpleData>
+		<SimpleData name="direccion">AVENIDA MEDINA AZAHARA 29</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79110586386469,37.8851189143713</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400013285</SimpleData>
+		<SimpleData name="nica">5010</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30022 ROSA CALVO, FRANCISCO DE LA - SERRANO BENITEZ, PEDRO M</SimpleData>
+		<SimpleData name="direccion">PLAZA DE LA COSTA DEL SOL 1</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79103152221387,37.8817137605609</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400013284</SimpleData>
+		<SimpleData name="nica">18525</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30339 MORENO ARROYO, PEDRO</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE VIRGEN DE FATIMA 57</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75150704485473,37.8974624221136</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400013283</SimpleData>
+		<SimpleData name="nica">18551</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30351 LASARTE  GALAN, MONICA</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE VIRGEN DE FATIMA 9</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75939740966753,37.8983558631028</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400013269</SimpleData>
+		<SimpleData name="nica">40552</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30397  FERNANDEZ POVES, ANA MARIA</SimpleData>
+		<SimpleData name="direccion">AVENIDA ROCIO DURCAL 37</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.76044687641963,37.930885296239</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400013197</SimpleData>
+		<SimpleData name="nica">41204</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30407 MARTIN OLIVEROS, ADELA</SimpleData>
+		<SimpleData name="direccion">CARRETERA DEL AEROPUERTO KM 4,250</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.82575046993292,37.8606765063703</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400013185</SimpleData>
+		<SimpleData name="nica">41184</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30406 JIMENEZ LUQUE, ANTONIO JUAN</SimpleData>
+		<SimpleData name="direccion">CALLE VEREDON DE LOS FRAILES 217</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.93342771182816,37.8402681132513</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400013098</SimpleData>
+		<SimpleData name="nica">18460</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30309   MOLINA LAPACHET, CARMEN</SimpleData>
+		<SimpleData name="direccion">PASAJE FELIPE MELLIZO 9</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.80286523540812,37.8877630607889</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400013080</SimpleData>
+		<SimpleData name="nica">18281</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30256    HERREROS VILLALBA, ANGEL</SimpleData>
+		<SimpleData name="direccion">AVENIDA CRUZ DE JUAREZ 12</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78043619541726,37.8962129657956</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400013047</SimpleData>
+		<SimpleData name="nica">5070</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30004 BUSTOS DE ABAJO, MERCEDES - RIO FERNANDEZ,  PIEDAD DEL</SimpleData>
+		<SimpleData name="direccion">PLAZA DE LA ALMAGRA 6</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77312591563645,37.8831123588832</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012757</SimpleData>
+		<SimpleData name="nica">18390</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30294  PEREZ MANZANO, ARACELI</SimpleData>
+		<SimpleData name="direccion">PASAJE AGUILAR DE LA FRONTERA S/N</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78051506003964,37.8639926528884</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012749</SimpleData>
+		<SimpleData name="nica">18515</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30334   MORALES ÁLVAREZ, BERTA Y CHACÓN MILARA, ARACELI  A.</SimpleData>
+		<SimpleData name="direccion">PLAZA DE COLON 34</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77718310788814,37.8892851220803</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012747</SimpleData>
+		<SimpleData name="nica">18393</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30299  FERNANDEZ-FIGUEROA MARTINEZ-SAGRERA, IRENE</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE ALMOGAVARES 4</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77114942360193,37.8947388498108</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012745</SimpleData>
+		<SimpleData name="nica">18387</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30292   ALCALA  GIMENEZ, PILAR</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE CARLOS III 18</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.76122937302464,37.8966376546511</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012744</SimpleData>
+		<SimpleData name="nica">18380</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30289  PANIAGUA MORUNO, FRANCISCO y PANIAGUA MERCHAN, JAVIER</SimpleData>
+		<SimpleData name="direccion">AVENIDA GRAN VIA PARQUE 59</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79192130229011,37.8782451676341</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012743</SimpleData>
+		<SimpleData name="nica">18374</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30287 ZOFIO RUIZ DE ADANA,  JUAN FRANCISCO</SimpleData>
+		<SimpleData name="direccion">AVENIDA DEL BRILLANTE 58</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78829398653646,37.9015782882987</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012742</SimpleData>
+		<SimpleData name="nica">18370</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30285 TORRE RUMBAO, ELENA</SimpleData>
+		<SimpleData name="direccion">RONDA RONDA DE LA MANCA 1</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.7650466580255,37.8863191629924</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012739</SimpleData>
+		<SimpleData name="nica">18502</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30321  RUIZ GARCIA, MARIA DOLORES Y RUIZ GARCIA MARINA SONSOLES</SimpleData>
+		<SimpleData name="direccion">AVENIDA VIRGEN DE LOS DOLORES 23</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79404716270632,37.8736176057884</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012738</SimpleData>
+		<SimpleData name="nica">18371</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30286 PIRIZ SALGADO, FATIMA</SimpleData>
+		<SimpleData name="direccion">AVENIDA MEDINA AZAHARA 34</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79421896490746,37.8855560249757</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012737</SimpleData>
+		<SimpleData name="nica">18357</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30278  GARCIA ACEDO, JESUS</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE LA FUENSANTA 2</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.76462684059963,37.8814638162453</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012736</SimpleData>
+		<SimpleData name="nica">18469</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30310    MOLINA LAPACHET, MARIA</SimpleData>
+		<SimpleData name="direccion">PASAJE MARINO OQUENDO 2</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.80248271611391,37.89072437884</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012735</SimpleData>
+		<SimpleData name="nica">18340</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30269  RIOOBO SANCHEZ, MERCEDES</SimpleData>
+		<SimpleData name="direccion">PLAZA DE COLON 21</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77775747595133,37.8913281841411</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012734</SimpleData>
+		<SimpleData name="nica">18347</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30270 PEREZ-ANGULO DE LUQUE, MILAGROS</SimpleData>
+		<SimpleData name="direccion">AVENIDA GRAN VIA PARQUE 33</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79335643068019,37.8812858824819</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012733</SimpleData>
+		<SimpleData name="nica">18339</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30268 MENDEZ PICON, MARIA JESUS Y MUÑOZ MENDEZ, MARTIN</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE AMERICA 3</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78150631482982,37.891068209185</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012732</SimpleData>
+		<SimpleData name="nica">18500</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30319   SANTISTEBAN LOPEZ, JULIO</SimpleData>
+		<SimpleData name="direccion">AVENIDA ARROYO DEL MORO 9</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79773963329061,37.8896716113975</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012731</SimpleData>
+		<SimpleData name="nica">18497</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30314   FERNANDEZ GOMEZ, PILAR</SimpleData>
+		<SimpleData name="direccion">AVENIDA BARCELONA S/N</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.76416933607176,37.8893583310214</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012730</SimpleData>
+		<SimpleData name="nica">18491</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30313   NUÑEZ BARROSO, PILAR Y BLANCO NUÑEZ, Mª ISABEL</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE VIRGEN DE FATIMA 44</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75519651345272,37.897685920813</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012729</SimpleData>
+		<SimpleData name="nica">18317</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30259   FERNANDEZ GOMEZ,  IGNACIO</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE JESUS RESCATADO S/N</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.76323297850652,37.8910238717513</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012728</SimpleData>
+		<SimpleData name="nica">18280</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30255   RAMIREZ CORDOBA, MANUEL Y AGUILAR CHAVES, FEDERICO</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE CADIZ 75</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.7813201020695,37.8663510510376</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012720</SimpleData>
+		<SimpleData name="nica">18213</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30239   CAMPOS RUIZ, GLORIA</SimpleData>
+		<SimpleData name="direccion">PLAZA CAMPO SANTO DE LOS MARTIRES 6</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78259275779295,37.8775438374306</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012718</SimpleData>
+		<SimpleData name="nica">18242</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30250     FERNANDEZ LOPEZ, Mª AMALIA Y FERNANDEZ LOPEZ, ANA MARIA</SimpleData>
+		<SimpleData name="direccion">AVENIDA DEL DOCTOR FLEMING 11</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78419819857851,37.8792805031399</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012717</SimpleData>
+		<SimpleData name="nica">18226</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30247   ORTEGA MORALES, PEDRO MIGUEL</SimpleData>
+		<SimpleData name="direccion">AVENIDA GRANADA 4</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77771767311089,37.8690771772749</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012708</SimpleData>
+		<SimpleData name="nica">18201</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30235   ESPEJO NUÑEZ, CARMEN</SimpleData>
+		<SimpleData name="direccion">PLAZA REGINA 3</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77108215547941,37.8842560477391</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012702</SimpleData>
+		<SimpleData name="nica">18137</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30204   HERNANDEZ RUIZ, Mª LORETO</SimpleData>
+		<SimpleData name="direccion">PLAZA CRISTO DE GRACIA 1</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.76588009893444,37.8903053298253</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012701</SimpleData>
+		<SimpleData name="nica">18198</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30233   BUESO FERNANDEZ, JAVIER A.</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE VEINTIOCHO DE FEBRERO 4</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75982618612348,37.8932098112434</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012700</SimpleData>
+		<SimpleData name="nica">18181</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30229,REQUENA SAAVEDRA, IGMACIO Y MIGUEL</SimpleData>
+		<SimpleData name="direccion">AVENIDA ISLA FUERTEVENTURA 62</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.80631823381509,37.8862851327701</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012695</SimpleData>
+		<SimpleData name="nica">18185</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30231, PEREZ LOPEZ, ISABEL</SimpleData>
+		<SimpleData name="direccion">CALLE SANTA MARÍA DE TRASSIERRA 26</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78939479708584,37.8911380573055</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012679</SimpleData>
+		<SimpleData name="nica">18163</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30223 GARCIA CABRERA, CLEMENTINA</SimpleData>
+		<SimpleData name="direccion">AVENIDA GUERRITA 9</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79546842671949,37.8781350582332</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012677</SimpleData>
+		<SimpleData name="nica">18148</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30214   FERNANDEZ GARCIA, ANTONIO</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE LOS MOZARABES 17</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78716232582885,37.88826179133</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012674</SimpleData>
+		<SimpleData name="nica">18146</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30212  NAVARRO ORTIZ, RAFAEL CARLOS</SimpleData>
+		<SimpleData name="direccion">GLORIETA AMADORA 2</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79958408873888,37.8931145916406</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012673</SimpleData>
+		<SimpleData name="nica">18145</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30211 FERNANDEZ MUÑOZ, RAFAEL ANGEL</SimpleData>
+		<SimpleData name="direccion">PLAZA DE LA IGLESIA 9</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77393143103356,37.8745974188734</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012669</SimpleData>
+		<SimpleData name="nica">18142</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30208   LOPEZ MORENO, PILAR</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE LAS OLLERIAS 11</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77506949156822,37.8919995663401</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012666</SimpleData>
+		<SimpleData name="nica">18144</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30210 VEGA RIVERO, RICARDO Y VEGA ROSAS, BELEN</SimpleData>
+		<SimpleData name="direccion">CARRETERA DE MADRID 35</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.67146131145964,37.9332436043193</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012658</SimpleData>
+		<SimpleData name="nica">18083</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30028 ESTRADA REINA, MARIA</SimpleData>
+		<SimpleData name="direccion">AVENIDA DONANTES DE ORGANOS 7</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.8118005910359,37.8922737451964</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012649</SimpleData>
+		<SimpleData name="nica">18071</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30199   BURGOS MONTERO, HIGINIO</SimpleData>
+		<SimpleData name="direccion">CALLE SAN BASILIO 36</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78459360951365,37.8757517785713</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012648</SimpleData>
+		<SimpleData name="nica">18070</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30198  CRIADO LOPEZ, ARACELI Y HITA FERNANDEZ, ISABEL DE</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE JESUS RESCATADO 34</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75999950049373,37.8905854900627</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012647</SimpleData>
+		<SimpleData name="nica">18061</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30193   OSTOS MARTIN, ESTRELLA Y MONTAÑO HIDALGO, CARMEN</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE LAS OLLERIAS 45</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77101349320057,37.8930366728339</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012643</SimpleData>
+		<SimpleData name="nica">18059</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30191 SIERRA HERRERA, ANA Mª</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE LA ARRUZAFA 5</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79183800720078,37.904223077692</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012599</SimpleData>
+		<SimpleData name="nica">18446</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30301 NAVARRO LABRID, MARTA Y NAVARRO LABRID, ALFONSO CARLOS</SimpleData>
+		<SimpleData name="direccion">PLAZA ESCRITOR PEÑA AGUAYO 4</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.76759360508797,37.8943662632369</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012598</SimpleData>
+		<SimpleData name="nica">18457</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30308   ROMÁN GÓMEZ, MAGDALENA</SimpleData>
+		<SimpleData name="direccion">AVENIDA CAÑITO BAZAN 5</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79957069946809,37.8957982960298</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012597</SimpleData>
+		<SimpleData name="nica">18448</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30302   VALDIVIA ORTI JOSE J. Y VALDIVIA ORTI CONCEPCION</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE ALMOGAVARES 46</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.7772885063265,37.8972009431524</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012596</SimpleData>
+		<SimpleData name="nica">18558</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30357 CRUZ PADILLA, PRAXEDES</SimpleData>
+		<SimpleData name="direccion">AVENIDA VIRGEN MILAGROSA 54</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75687798527029,37.8855177462061</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012595</SimpleData>
+		<SimpleData name="nica">18545</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30348 LOPEZ QUECUTY PUIG, ROSARIO</SimpleData>
+		<SimpleData name="direccion">AVENIDA VIRGEN DE LOS DOLORES 2</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79683995002333,37.8748397255734</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012594</SimpleData>
+		<SimpleData name="nica">18543</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30347   FERNANDEZ CALZADA, JUAN ANTONIO</SimpleData>
+		<SimpleData name="direccion">AVENIDA REPUBLICA ARGENTINA 12</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78639922334241,37.8852467619291</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012589</SimpleData>
+		<SimpleData name="nica">18537</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30344   NAVAS BELTRAMI, Mº DEL CARMEN</SimpleData>
+		<SimpleData name="direccion">AVENIDA DEL GRAN CAPITAN 21</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78286488601792,37.8884927042067</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012508</SimpleData>
+		<SimpleData name="nica">5081</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30015 SANCHEZ ALCOLEA, MANUEL</SimpleData>
+		<SimpleData name="direccion">PLAZA DE LA FLOR DEL OLIVO S/N</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77658225008164,37.8932445977368</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012486</SimpleData>
+		<SimpleData name="nica">5074</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30008 BELMONTE BAS, ANTONIO</SimpleData>
+		<SimpleData name="direccion">AVENIDA TURRUÑUELOS 1</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.80162965455721,37.8997386457663</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012485</SimpleData>
+		<SimpleData name="nica">5073</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30007 AVILA ORTIZ, JORGE</SimpleData>
+		<SimpleData name="direccion">AVENIDA RONDA DE LOS TEJARES 2</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77964474116804,37.8893260683851</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012484</SimpleData>
+		<SimpleData name="nica">5067</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30253  NAVARRO CAMACHO, ANGELES Y BONILLA VILELA FRANCISCO JAVIER</SimpleData>
+		<SimpleData name="direccion">AVENIDA PERIODISTA JOSE LUIS DE CORDOBA 1</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.76302736343364,37.8770724584779</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012480</SimpleData>
+		<SimpleData name="nica">5062</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30237 RUBIAS GARCIA, JULIA</SimpleData>
+		<SimpleData name="direccion">CARRETERA ALMADEN 43</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77053799827352,38.0034112679401</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012469</SimpleData>
+		<SimpleData name="nica">5049</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30206 CANTUESO MEDINA, GABRIEL JUAN</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE LA CONCORDIA 17</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.91453551665673,37.848638421025</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012468</SimpleData>
+		<SimpleData name="nica">5048</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30189 BLANCA VELAZQUEZ, ELOISA A.</SimpleData>
+		<SimpleData name="direccion">CARRETERA DE CASTRO 111</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77464331213446,37.8678038798973</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012462</SimpleData>
+		<SimpleData name="nica">5013</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30026 CABELLO REYES, CATALINA</SimpleData>
+		<SimpleData name="direccion">PLAZA DE LAS BEATILLAS 2</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77258829612531,37.8887531425677</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012459</SimpleData>
+		<SimpleData name="nica">5021</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30035 TOLEDANO SERRANO, DOLORES</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE AMERICA 15</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78378616031471,37.8900466856029</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012458</SimpleData>
+		<SimpleData name="nica">5017</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30031 RUIZ TORRES, EVA PILAR</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE CARLOS III 57</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75404435262504,37.8963641688587</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012455</SimpleData>
+		<SimpleData name="nica">5011</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30023 NATERA KINDELAN, ANA</SimpleData>
+		<SimpleData name="direccion">PLAZA REALEJO 10</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77152296557576,37.8866766839857</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012405</SimpleData>
+		<SimpleData name="nica">4907</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30197   FUENTES DEL RIO, SOFIA</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE CADIZ 57</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77787012436527,37.8714601240921</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012402</SimpleData>
+		<SimpleData name="nica">4906</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30388 GAVILAN GUZMAN, AMELIA</SimpleData>
+		<SimpleData name="direccion">CARRETERA DE LAS ERMITAS 12</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.80443593980933,37.9095469531442</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012196</SimpleData>
+		<SimpleData name="nica">18056</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30190 LOPEZ RUIZ-CATEDRA, MARIA DEL MAR</SimpleData>
+		<SimpleData name="direccion">RONDA RONDA DE LOS TEJARES 29</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78425139401992,37.8865056462956</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012195</SimpleData>
+		<SimpleData name="nica">18453</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30304   ROLDAN ARIZA, RAFAEL</SimpleData>
+		<SimpleData name="direccion">PLAZA MARINA ESPAÑOLA 60</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.80546046477069,37.8903245659369</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012166</SimpleData>
+		<SimpleData name="nica">18218</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30242    AVILA CARAMES, PEDRO</SimpleData>
+		<SimpleData name="direccion">PLAZA BELLAVISTA 6</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77979914831781,37.9089749330983</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012165</SimpleData>
+		<SimpleData name="nica">18066</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30195   BERNAL LAZARO, Mª LUISA</SimpleData>
+		<SimpleData name="direccion">RONDA RONDA DE ANDUJAR 21</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.76860122245309,37.8858369623268</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012159</SimpleData>
+		<SimpleData name="nica">18073</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30005 CAMPO MOLINA, JACINTA DEL</SimpleData>
+		<SimpleData name="direccion">PLAZA DE SAN PEDRO 24</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77234328869038,37.8826769863119</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012154</SimpleData>
+		<SimpleData name="nica">18068</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30196 CARRILLO DE ALBORNOZ RODRIGUEZ, Mª LUISA</SimpleData>
+		<SimpleData name="direccion">CALLE RAFAEL MARQUEZ MAZZANTINI 1</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79565951381867,37.8804221379466</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012153</SimpleData>
+		<SimpleData name="nica">18062</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30194 ECHEVARRIA MARQUEZ, PILAR</SimpleData>
+		<SimpleData name="direccion">CALLE MARRUECOS 2</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78894627789128,37.8824792264825</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012144</SimpleData>
+		<SimpleData name="nica">5077</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30011 ROLDAN MOLINA, FAUSTINA</SimpleData>
+		<SimpleData name="direccion">PLAZA DE LAS TENDILLAS 2</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77905739798609,37.884259384975</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012143</SimpleData>
+		<SimpleData name="nica">5072</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30006 FERNANDEZ ABELLA, JOSE MARÍA</SimpleData>
+		<SimpleData name="direccion">PLAZA MARMOL DE BAÑUELOS 4</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77903631720378,37.8853854136623</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012071</SimpleData>
+		<SimpleData name="nica">18150</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30216 JURADO FUENTES, MACARENA</SimpleData>
+		<SimpleData name="direccion">CALLE SEBASTIAN DE BENALCAZAR 11</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78665656839937,37.8944543256313</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400012013</SimpleData>
+		<SimpleData name="nica">5043</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30381 AYLLON GALAN, MARTA</SimpleData>
+		<SimpleData name="direccion">CALLE LIBERTADOR JUAN RAFAEL MORA 9-10</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78307543867646,37.8618393930849</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400011927</SimpleData>
+		<SimpleData name="nica">5053</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30330  RODRIGUEZ DEL MORAL JOSE EUGENIO</SimpleData>
+		<SimpleData name="direccion">CALLE MURCIA 4</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.76498584467926,37.8879357700552</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400011926</SimpleData>
+		<SimpleData name="nica">41073</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30411 ROMERO ARROYO, MARIA AURORA</SimpleData>
+		<SimpleData name="direccion">CALLE INGENIERO BENITO DE ARANA 1</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.81467068638285,37.882203370958</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400011923</SimpleData>
+		<SimpleData name="nica">5065</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30001 ALVAREZ BRAVO,  ANTONIO JESUS</SimpleData>
+		<SimpleData name="direccion">CALLE BEATRIZ ENRIQUEZ 10</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78453151652254,37.894117663964</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400011921</SimpleData>
+		<SimpleData name="nica">18634</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30378 ROMERO CAMBRON, CARMEN</SimpleData>
+		<SimpleData name="direccion">CALLE PASEO PABLO IGLESIAS 1</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.92640260890559,37.8323839329273</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400011904</SimpleData>
+		<SimpleData name="nica">18158</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30221 DIAZ VILCHEZ, DOLORES Y HOLGADO DIAZ, FEDERICO Y HOLGADO ALIJO, FEDERICO</SimpleData>
+		<SimpleData name="direccion">CALLE COBO DE GUZMAN 2</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77531342555003,37.8972489061779</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400011790</SimpleData>
+		<SimpleData name="nica">41077</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30405 GUERRERO SERRANO, ENRIQUE BARTOLOME</SimpleData>
+		<SimpleData name="direccion">CALLE NORUEGA S/N</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.7381701642681,37.8987380845645</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400011650</SimpleData>
+		<SimpleData name="nica">4896</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30152   INFANTE BLANCO, Mª DOLORES</SimpleData>
+		<SimpleData name="direccion">CALLE MORILES 2</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77702971300227,37.866654878155</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400011590</SimpleData>
+		<SimpleData name="nica">18487</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30312 ALVAREZ CEJUDO, CONCEPCION</SimpleData>
+		<SimpleData name="direccion">CALLE ESCRITOR LEIVA MUÑOZ 33</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.85222677964294,37.868147967487</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400011587</SimpleData>
+		<SimpleData name="nica">18182</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30230 BERGILLOS JIMENEZ, RAFAEL Y BERGILLOS JIMENEZ, PEDRO</SimpleData>
+		<SimpleData name="direccion">CALLE GONZALO XIMENEZ DE QUESADA 19</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78695763011396,37.8832253037649</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400011584</SimpleData>
+		<SimpleData name="nica">18366</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30283 ALCARAZ MONTIJANO, NATALIA</SimpleData>
+		<SimpleData name="direccion">CALLE MENENDEZ PIDAL 12</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79334102252201,37.8694013729058</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400011519</SimpleData>
+		<SimpleData name="nica">18276</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30251   LOZANO  JIMENEZ,   MIGUEL A.</SimpleData>
+		<SimpleData name="direccion">CALLE SANTA MARIA DE TRASSIERRA 38</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79254556141172,37.8922183804899</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400011517</SimpleData>
+		<SimpleData name="nica">18241</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30249  CARVAJAL DORADO, Mª VICTORIA</SimpleData>
+		<SimpleData name="direccion">CALLE JEREZ 1</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77967103959631,37.8678555099598</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010653</SimpleData>
+		<SimpleData name="nica">18394</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30300 ORTIZ BUENO, ANTONIO MANUEL</SimpleData>
+		<SimpleData name="direccion">CALLE JUAN DE CERVANTES 29</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75741133343287,37.8923453438593</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010652</SimpleData>
+		<SimpleData name="nica">18392</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30298 COCA LOPEZ, JUAN JOSE</SimpleData>
+		<SimpleData name="direccion">CALLE VIRGEN MILAGROSA 20</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.76029414652437,37.8855792244592</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010651</SimpleData>
+		<SimpleData name="nica">18385</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30291 CONTRERAS ROLDAN, JUAN</SimpleData>
+		<SimpleData name="direccion">CALLE SAGUNTO 13</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.76574419034731,37.8924621123828</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010650</SimpleData>
+		<SimpleData name="nica">18381</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30290 CASTRO SALVADOR, EMILIA</SimpleData>
+		<SimpleData name="direccion">CALLE LA PALMERA 10</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78278543394302,37.8971258150982</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010649</SimpleData>
+		<SimpleData name="nica">18375</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30288  AGUDO RODRIGUO, MERCEDES</SimpleData>
+		<SimpleData name="direccion">CALLE PLATERO PEDRAJAS 2</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75617708577553,37.8953457803461</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010648</SimpleData>
+		<SimpleData name="nica">18532</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30343   CAMPO GIMENEZ, JUANA DEL</SimpleData>
+		<SimpleData name="direccion">CALLE TOMAS DE AQUINO 4</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.7883959872096,37.8776014602444</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010647</SimpleData>
+		<SimpleData name="nica">18531</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30342 SANCHEZ DE PUERTA ARANDA, RAFAEL</SimpleData>
+		<SimpleData name="direccion">CALLE DOÑA BERENGUELA S/N</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78512218346708,37.8924289555848</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010646</SimpleData>
+		<SimpleData name="nica">18529</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30341 PAREJO MARTIN, VICENTE</SimpleData>
+		<SimpleData name="direccion">CALLE FRANCISCO PIZARRO 8</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.76010162109642,37.883753112217</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010645</SimpleData>
+		<SimpleData name="nica">18526</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30340   CRUZ PADILLA, CARMEN</SimpleData>
+		<SimpleData name="direccion">CALLE NUESTRA SEÑORA DE BELEN 22</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75976406028957,37.8808746459547</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010644</SimpleData>
+		<SimpleData name="nica">18524</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30338   DE LA ROSA TIRADO, ANGEL</SimpleData>
+		<SimpleData name="direccion">CALLE COMPOSITOR SERRANO LUCENA S/N</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.76215012326718,37.8850521569462</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010643</SimpleData>
+		<SimpleData name="nica">18519</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30337   GARCIA-AREVALO CABELLO, SARA</SimpleData>
+		<SimpleData name="direccion">CALLE ESCRITOR TORQUEMADA 11</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79162308876257,37.8909112093578</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010641</SimpleData>
+		<SimpleData name="nica">18516</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30335   MALO DE MOLINA FDEZ.DE CORDOBA, JUAN</SimpleData>
+		<SimpleData name="direccion">CALLE HERMANO JUAN FERNANDEZ S/N</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75375234770695,37.8947421590537</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010640</SimpleData>
+		<SimpleData name="nica">18514</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30332 GUTIERREZ FERNANDEZ, MARIA DEL ROSARIO</SimpleData>
+		<SimpleData name="direccion">CALLE ESCRITOR JUAN ALFONSO DE BAENA 5</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75274125510611,37.8936681108224</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010639</SimpleData>
+		<SimpleData name="nica">18512</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30331   ROLDAN CRUZ, ROSA</SimpleData>
+		<SimpleData name="direccion">CALLE EL CASTAÑO 5</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78121739601178,37.8992845459972</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010636</SimpleData>
+		<SimpleData name="nica">18509</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30327 CALERO CAMPOS, INMACULADA</SimpleData>
+		<SimpleData name="direccion">CALLE PINTOR ESPINOSA S/N</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79314245806093,37.8719304508498</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010635</SimpleData>
+		<SimpleData name="nica">18508</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30326 MALO DE MOLINA FDEZ DE CORDOBA, MONTSERRAT</SimpleData>
+		<SimpleData name="direccion">CALLE MERCURIO 4</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75137619017803,37.8921947531179</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010634</SimpleData>
+		<SimpleData name="nica">18506</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30325  VELILLA CAÑABATE, EMILIO</SimpleData>
+		<SimpleData name="direccion">CALLE NUESTRA SEÑORA DE LA MERCED 5</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75631673546586,37.9016374861291</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010633</SimpleData>
+		<SimpleData name="nica">18504</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30323   FERNANDEZ MUÑOZ, JOSE Mª</SimpleData>
+		<SimpleData name="direccion">CALLE MACHAQUITO 6</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79557847356897,37.882943898412</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010632</SimpleData>
+		<SimpleData name="nica">18503</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30322 CAÑADA CARACUEL, ANTONIO</SimpleData>
+		<SimpleData name="direccion">CALLE SECUNDA ROMANA 40</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77221930793212,37.8702073522436</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010630</SimpleData>
+		<SimpleData name="nica">18360</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30281 BERRAL YERON, FRANCISCO Y BERRAL CARMONA, ENRIQUE</SimpleData>
+		<SimpleData name="direccion">CALLE ESPEJO BLANCAS 2</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77910200885043,37.8981636438391</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010627</SimpleData>
+		<SimpleData name="nica">18356</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30277 SICILIA MORALES, FRANCISCO Y GARCIA CRESPO, Mº JOSE</SimpleData>
+		<SimpleData name="direccion">CALLE ALCALDE VELASCO NAVARRO 13</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78782020188757,37.8802054933555</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010626</SimpleData>
+		<SimpleData name="nica">18352</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30273   LAGUNA GONZALEZ CANALES, TOMAS CARLOS</SimpleData>
+		<SimpleData name="direccion">CALLE LOPE DE HOCES 7</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78465048306859,37.8827335695698</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010625</SimpleData>
+		<SimpleData name="nica">18351</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30272 GOMEZ ALMAGRO JUAN CARLOS Y GOMEZ ALMAGRO CESAR</SimpleData>
+		<SimpleData name="direccion">CALLE ISLA ALEGRANZA 10</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.80332824242033,37.8856746414941</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010624</SimpleData>
+		<SimpleData name="nica">18338</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30267  BLANCO LOPEZ, PEDRO Y BLANCO NUÑEZ, JOSE MANUEL</SimpleData>
+		<SimpleData name="direccion">CALLE CAÑAMO 3</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.7654856773681,37.8828976603851</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010623</SimpleData>
+		<SimpleData name="nica">18335</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30264 CAMPO JIMENEZ, JESUS DEL</SimpleData>
+		<SimpleData name="direccion">CALLE MUSICO TOMAS LUIS DE VICTORIA 32</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78989777495514,37.893321158811</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010622</SimpleData>
+		<SimpleData name="nica">18501</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30320   LEON NAVARRO, MARIA DEL ROCIO</SimpleData>
+		<SimpleData name="direccion">CALLE HISTORIADOR DOZY 12</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79355979168436,37.8900170264077</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010621</SimpleData>
+		<SimpleData name="nica">18499</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30318   RUIZ- MAYA JIMENEZ, Mª DEL MAR</SimpleData>
+		<SimpleData name="direccion">CALLE ESCRITOR JIMENEZ LORA 47</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.7567986754127,37.890577513673</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010619</SimpleData>
+		<SimpleData name="nica">18485</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30311 DURAN DURAN, ROSARIO Y AMIAN DURAN, SERGIO</SimpleData>
+		<SimpleData name="direccion">CALLE GALAPAGAR 24</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.65623333313873,37.9269355293536</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010618</SimpleData>
+		<SimpleData name="nica">18334</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30263   LUNA MOYANO, DIEGO JESUS</SimpleData>
+		<SimpleData name="direccion">CALLE GLORIA FUERTES 5</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79285132369804,37.8762047849588</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010617</SimpleData>
+		<SimpleData name="nica">18333</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30262  PADILLA ALCARAZ, CARLOS MARIA</SimpleData>
+		<SimpleData name="direccion">CALLE GOYA 50</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78766281944215,37.8931527591323</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010615</SimpleData>
+		<SimpleData name="nica">18325</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30260   MARTINEZ MILLAN, JOSEFA  Y  HINOJOSA MARTINEZ, JOSEFA</SimpleData>
+		<SimpleData name="direccion">CALLE SAGUNTO 29</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.76227892097254,37.894114310863</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010610</SimpleData>
+		<SimpleData name="nica">18282</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30257 JIMENEZ JIMENEZ, CARMEN</SimpleData>
+		<SimpleData name="direccion">CALLE CARRETERA DE MADRID 58</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.67371121966643,37.9320389610954</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010596</SimpleData>
+		<SimpleData name="nica">18219</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30243 NAVAS BELTRAMI, MARTA</SimpleData>
+		<SimpleData name="direccion">CALLE CRUZ CONDE 21</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.7811171289184,37.8881152406088</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010594</SimpleData>
+		<SimpleData name="nica">18214</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30240 ARIZA GAVILAN, MONICA</SimpleData>
+		<SimpleData name="direccion">CALLE LUQUE 5</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77893670141847,37.8655546335688</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010570</SimpleData>
+		<SimpleData name="nica">18205</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30236  LEON RUEDA, PILAR Y FERNANDEZ LEON, RODRIGO</SimpleData>
+		<SimpleData name="direccion">CALLE HERMANO JUAN DE DIOS 9</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75244717972676,37.8903997195109</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010569</SimpleData>
+		<SimpleData name="nica">18200</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30234 PEREZ PEREZ-GIMENEZ, DIEGO</SimpleData>
+		<SimpleData name="direccion">CALLE MAESTRO PRIEGO LOPEZ 7</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.7895617572585,37.8810116045215</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010558</SimpleData>
+		<SimpleData name="nica">18139</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30205   ROSAS CRISTOFOL, Mª DEL PILAR</SimpleData>
+		<SimpleData name="direccion">CALLE CARRETERA DE TRASSIERRA 41</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.80507338718768,37.8945473376822</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010557</SimpleData>
+		<SimpleData name="nica">18136</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30203   GOMEZ MARTINEZ-SAGRERA,  CARMEN</SimpleData>
+		<SimpleData name="direccion">CALLE ESCRITORA EMILIA PARDO BAZAN 5</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.80072341330648,37.8753938276431</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010556</SimpleData>
+		<SimpleData name="nica">18135</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30202  MARTINEZ GARRIDO, Mª DOLORES</SimpleData>
+		<SimpleData name="direccion">CALLE FELIPE II 12</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79183165267658,37.8828168100166</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010555</SimpleData>
+		<SimpleData name="nica">18133</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30201   COLLANTES MORALES, ROSARIO</SimpleData>
+		<SimpleData name="direccion">CALLE MONTERO 28</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.76922748538617,37.8901585282239</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010537</SimpleData>
+		<SimpleData name="nica">18166</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30225   OSTOS MUÑOZ, LORENZO</SimpleData>
+		<SimpleData name="direccion">CALLE INFANTA DOÑA MARIA 5</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79311652322198,37.8838678419106</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010536</SimpleData>
+		<SimpleData name="nica">18164</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30224 GARCIA GUTIERREZ, MARIA MERCEDES</SimpleData>
+		<SimpleData name="direccion">CALLE POZOBLANCO 56</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.777111494493,37.8634170504287</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010535</SimpleData>
+		<SimpleData name="nica">18157</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30220 DE LA GALA OTERO , JOSE ANTONIO</SimpleData>
+		<SimpleData name="direccion">CALLE CONQUISTADOR BENITO DE BAÑOS 10</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75935897204538,37.8921727345227</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010534</SimpleData>
+		<SimpleData name="nica">18156</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30219 CASAÑO DE CUEVAS, RAFAEL</SimpleData>
+		<SimpleData name="direccion">CALLE INFANTA DOÑA MARIA 69</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79136462495463,37.8800637984939</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010530</SimpleData>
+		<SimpleData name="nica">18143</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30209  JARA PEREZ-ANGULO, JOSE IGNACIO</SimpleData>
+		<SimpleData name="direccion">CALLE AGUSTIN MORENO 42</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.76804177879361,37.881836948102</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010504</SimpleData>
+		<SimpleData name="nica">18109</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30087     GONZALEZ GALAN, RAFAEL</SimpleData>
+		<SimpleData name="direccion">CALLE VILLA DE ROTA 12</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79030757288398,37.8865593109381</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010499</SimpleData>
+		<SimpleData name="nica">18080</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30016 CAÑERO CASTRO, ANTONIO JESUS</SimpleData>
+		<SimpleData name="direccion">CALLE REALEJO 6</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77231939382347,37.8863519741804</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010498</SimpleData>
+		<SimpleData name="nica">18079</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30014 OLEAGA ANDRES, JOSE FELIX</SimpleData>
+		<SimpleData name="direccion">CALLE ANGEL DE SAAVEDRA 4</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.779812716419,37.8826099712085</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010483</SimpleData>
+		<SimpleData name="nica">18072</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30200 MOLINA LUQUE, LAURA M.</SimpleData>
+		<SimpleData name="direccion">CALLE CARCAMO 8</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77172619925498,37.8910470844806</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010482</SimpleData>
+		<SimpleData name="nica">18060</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30192   CASTILLO GARRIDO, ANTONIA</SimpleData>
+		<SimpleData name="direccion">CALLE FUNCIONARIO LAZARO NAVAJAS 41</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75472173850913,37.8891470122663</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010481</SimpleData>
+		<SimpleData name="nica">18055</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30188 ALCANTARA LEON, ANA</SimpleData>
+		<SimpleData name="direccion">CALLE FRAY PEDRO DE CORDOBA 64</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77389116344215,37.8720579066562</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010466</SimpleData>
+		<SimpleData name="nica">18239</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30248 MAYNEZ DE LA CALZADA, INMACULADA</SimpleData>
+		<SimpleData name="direccion">AVENIDA CORDOBA 21</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.89782579661432,37.9263720709412</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010446</SimpleData>
+		<SimpleData name="nica">18141</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30207  SANCHEZ TORRE, PILAR</SimpleData>
+		<SimpleData name="direccion">CALLE DOLORES IBARRURI 5</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79353243642997,37.8963116223062</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010437</SimpleData>
+		<SimpleData name="nica">18040</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30182 ROSA CAMARGO, JOSE MANUEL</SimpleData>
+		<SimpleData name="direccion">CALLE SAGUNTO 67</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75982848647407,37.895134467617</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010416</SimpleData>
+		<SimpleData name="nica">18639</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30384 CABANES DEL CAMPO, Mª VICTORIA</SimpleData>
+		<SimpleData name="direccion">CALLE JUAN PEREZ ZURITA 6</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.86249599791362,37.8497709440717</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010395</SimpleData>
+		<SimpleData name="nica">18584</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30363   MARTINEZ LOPEZ, Mª PAZ</SimpleData>
+		<SimpleData name="direccion">CALLE FRANCISCO AZORIN IZQUIERDO 38</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79562013074614,37.8905037241862</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010393</SimpleData>
+		<SimpleData name="nica">18571</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30362   FUERTES CRIADO, ANA E INMACULADA</SimpleData>
+		<SimpleData name="direccion">CALLE MANUEL DE FALLA 6</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78587787679662,37.89977965834</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010389</SimpleData>
+		<SimpleData name="nica">18456</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30307 CRIADO REYES, ADELAIDA</SimpleData>
+		<SimpleData name="direccion">CALLE LOS HARANAS 2</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78121815211293,37.8898461724607</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010388</SimpleData>
+		<SimpleData name="nica">18454</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30306   FUENTES DEL RIO, JUAN A</SimpleData>
+		<SimpleData name="direccion">CALLE DON LOPE DE LOS RIOS 62</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77637003762753,37.8994511209531</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010387</SimpleData>
+		<SimpleData name="nica">18452</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30303   GALAN QUESADA,  MARIA SAGRARIO</SimpleData>
+		<SimpleData name="direccion">CALLE LUIS PONCE DE LEON 1</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78718549550267,37.8912325242876</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010383</SimpleData>
+		<SimpleData name="nica">18562</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30360 GALAN LARRUBIA, ELENA</SimpleData>
+		<SimpleData name="direccion">CALLE PINTOR MONROY 12</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77864854571888,37.909163453565</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010380</SimpleData>
+		<SimpleData name="nica">18559</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30358 LUCENA VALLS, MARIA</SimpleData>
+		<SimpleData name="direccion">CALLE MOLINA SANCHEZ LAGARTIJO S/N</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77923612615935,37.8922710399935</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010379</SimpleData>
+		<SimpleData name="nica">18557</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30356   PEREZ NAVARRO, ANDRES</SimpleData>
+		<SimpleData name="direccion">CALLE DE BLAS INFANTE 1</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.76278239980271,37.8978333660088</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010378</SimpleData>
+		<SimpleData name="nica">18556</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30355   ERICE MOYANO, CARMEN</SimpleData>
+		<SimpleData name="direccion">CALLE PATRICIO  FURRIER 32</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77409709316602,37.8979807492719</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010377</SimpleData>
+		<SimpleData name="nica">18555</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30354 CANTARERO ROA, JUAN JOSÉ Y CANTARERO GARCÍA, FRANCISCO JOSÉ</SimpleData>
+		<SimpleData name="direccion">CALLE ESCULTOR FERNANDEZ MARQUEZ S/N</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78466484546709,37.8979529891992</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010376</SimpleData>
+		<SimpleData name="nica">18553</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30353   LOPEZ MORENO, ENRIQUETA Y IGNACIO RGUEZ-TEMBLEQUE L.</SimpleData>
+		<SimpleData name="direccion">CALLE DAMASCO 21</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78910396405014,37.8791878203578</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010375</SimpleData>
+		<SimpleData name="nica">18552</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30352   LOPEZ NAVARRO, NIEVES</SimpleData>
+		<SimpleData name="direccion">CALLE ARCOS DE LA FRONTERA 15</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75297337833461,37.8992504311127</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010374</SimpleData>
+		<SimpleData name="nica">18546</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30349 FERNANDEZ PETIDIER BERNABE Y FERNANDEZ PETIDIER, ROCIO</SimpleData>
+		<SimpleData name="direccion">CALLE DE LOS PLATEROS 15</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77701748473163,37.8951679518753</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010373</SimpleData>
+		<SimpleData name="nica">18541</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30346 ONIEVA ALCALA, MACARENA</SimpleData>
+		<SimpleData name="direccion">CALLE EL ALGARROBO 2</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78225629259025,37.8949707623986</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010372</SimpleData>
+		<SimpleData name="nica">18538</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30345   ALAYO MARTIN, ROSARIO - MORALES ALAYO, MARTA</SimpleData>
+		<SimpleData name="direccion">CALLE MOTRIL 54</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.7748342112263,37.8628001772193</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010213</SimpleData>
+		<SimpleData name="nica">5094</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30275  BELLIDO PEREZ, CARMEN</SimpleData>
+		<SimpleData name="direccion">CALLE FERNANDO AMOR Y MAYOR 1</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79612434312769,37.8881702392791</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010211</SimpleData>
+		<SimpleData name="nica">5092</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30019 RUIZ CUEVAS, MANUEL RAMON</SimpleData>
+		<SimpleData name="direccion">CALLE SANCHEZ PEÑA 12</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77480316543658,37.8826971373542</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010210</SimpleData>
+		<SimpleData name="nica">5091</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30350 TORRES RODRIGUEZ, ARACELI</SimpleData>
+		<SimpleData name="direccion">CALLE LIBERTADOR SIMON BOLIVAR 13</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78247803899864,37.8592325196535</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010208</SimpleData>
+		<SimpleData name="nica">5089</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30317 OCAÑA ROJAS, LAURA</SimpleData>
+		<SimpleData name="direccion">CALLE DOCTOR GREGORIO MARAÑON 11</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.7851654965637,37.8778625528098</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010207</SimpleData>
+		<SimpleData name="nica">5084</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30018 FERNANDEZ TENDERO, ANTONIO</SimpleData>
+		<SimpleData name="direccion">CALLE MARIA MONTESSORI S/N</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79598509993562,37.8946883651198</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010205</SimpleData>
+		<SimpleData name="nica">5083</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30017 LORA SERRANO,ROSARIO</SimpleData>
+		<SimpleData name="direccion">CALLE HUELVA 3</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77897447430813,37.8689074609719</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010162</SimpleData>
+		<SimpleData name="nica">5068</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30003   BELTRAMI EGUILAZ, MARIA JESUS</SimpleData>
+		<SimpleData name="direccion">CALLE CONDE DE GONDOMAR 2</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78007117199022,37.8845384152814</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010161</SimpleData>
+		<SimpleData name="nica">5064</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30002 CABRERA TORDERA, DEMETRIO</SimpleData>
+		<SimpleData name="direccion">CALLE LUCANO 17</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77492930724379,37.8805787470944</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010157</SimpleData>
+		<SimpleData name="nica">5054</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30276   PRIEGO GONZALEZ DE CANALES, JUAN ANTONIO</SimpleData>
+		<SimpleData name="direccion">CALLE CINCO CABALLEROS 9</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.7638749966067,37.8946483299845</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010147</SimpleData>
+		<SimpleData name="nica">4677</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30127 LILLO ARANDA, ELENA</SimpleData>
+		<SimpleData name="direccion">CALLE INCA GARCILASO S/N</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.63393442637638,37.7334753311868</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010129</SimpleData>
+		<SimpleData name="nica">5052</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30315 RAMIREZ QUESADA, SONIA</SimpleData>
+		<SimpleData name="direccion">CALLE OBISPO CUBERO 7</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77854287912541,37.8725657777683</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010128</SimpleData>
+		<SimpleData name="nica">5051</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30265   DIE MARTINEZ, FEDERICO</SimpleData>
+		<SimpleData name="direccion">CALLE JOSE MARIA MARTORELL 4</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79877615636169,37.8801362105815</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010122</SimpleData>
+		<SimpleData name="nica">5040</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30030 LUCENA BELLO, GENOVEVA</SimpleData>
+		<SimpleData name="direccion">CALLE RODRIGUEZ MARIN 8</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77573225461095,37.8843959944779</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010087</SimpleData>
+		<SimpleData name="nica">5022</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30036 GARCIA SANTIAGO, HELIODORO</SimpleData>
+		<SimpleData name="direccion">CALLE CONDE DE TORRES CABRERA 30</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.7782385389876,37.8879663645132</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010086</SimpleData>
+		<SimpleData name="nica">5020</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30034 CABRERA SALINAS, ROSARIO</SimpleData>
+		<SimpleData name="direccion">CALLE JOSE CRUZ CONDE 12</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78034251149289,37.8861994329906</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010085</SimpleData>
+		<SimpleData name="nica">5019</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30033     DOMINGUEZ GONZALEZ, RAFAEL</SimpleData>
+		<SimpleData name="direccion">CALLE MAYOR DE SANTA MARINA 2</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77504343798067,37.8900865347246</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010084</SimpleData>
+		<SimpleData name="nica">5018</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30032 PELAEZ PORTALES, M. JOSE y PELAEZ PORTALES, M PAZ</SimpleData>
+		<SimpleData name="direccion">CALLE SEVILLA 7</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78101487274232,37.8836924104658</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010083</SimpleData>
+		<SimpleData name="nica">5016</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30029 GRANDE GONZALEZ DE CANALES, FERNANDO</SimpleData>
+		<SimpleData name="direccion">CALLE CONCEPCION 14</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78391885091263,37.8849110867979</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010081</SimpleData>
+		<SimpleData name="nica">5012</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30024 GALLARDO SANCHEZ, CARLOS</SimpleData>
+		<SimpleData name="direccion">CALLE CONCEPCION 6</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.78302406766132,37.8847847933399</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010080</SimpleData>
+		<SimpleData name="nica">5009</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30021 ALCALA PEDRAJAS, CARMEN</SimpleData>
+		<SimpleData name="direccion">CALLE PABLO RUIZ PICASSO 38</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75707150503442,37.8877358798929</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010079</SimpleData>
+		<SimpleData name="nica">5008</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30020 MORALES ALBELDA, ROSARIO</SimpleData>
+		<SimpleData name="direccion">CALLE ESCRITORA CONCHA ESPINA, LOCAL 1 1</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.80137804463568,37.8735894013238</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010047</SimpleData>
+		<SimpleData name="nica">4992</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30074   TOSCANO BENAVIDES, INMACULDA Y AGUDO TOSCANO, INMACULADA</SimpleData>
+		<SimpleData name="direccion">CALLE ESCRITOR GOMEZ DE RIVERA 2</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75580811744215,37.8990806145931</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010044</SimpleData>
+		<SimpleData name="nica">4986</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30068  PUIG CRIADO, PABLO</SimpleData>
+		<SimpleData name="direccion">CALLE HISTORIADOR JAEN MORENTE 4</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75819150738717,37.8994010537414</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010012</SimpleData>
+		<SimpleData name="nica">4971</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30144 SANTISTEBAN CUENCA, ASUNCION</SimpleData>
+		<SimpleData name="direccion">CALLE ISLA HIERRO 4</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.79910893171063,37.88875139876</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400010009</SimpleData>
+		<SimpleData name="nica">4967</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30139  BLANCO SANCHEZ, Mª LUNA Y BLANCO SANCHEZ, Mº DOLORES</SimpleData>
+		<SimpleData name="direccion">CALLE ACERA ALONSO GOMEZ FIGUEROA 39</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.75332193805779,37.8873464407615</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400009925</SimpleData>
+		<SimpleData name="nica">4905</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30305 GLORIA GARCIA DUEÑAS y ROSARIO GARCIA DUEÑAS</SimpleData>
+		<SimpleData name="direccion">CALLE BARITONO JOSE M.AGUILAR BLANCO 2</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.81504334711703,37.884529746537</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400009919</SimpleData>
+		<SimpleData name="nica">4897</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30333 MARTIN PEREZ, JOSEFA Y DOMINGUEZ MARTIN, MERCEDES SELENE</SimpleData>
+		<SimpleData name="direccion">CALLE YAHIA 54</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.77334561429508,37.8656946628056</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400009515</SimpleData>
+		<SimpleData name="nica">18170</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30228 LORA SERRANO, DOLORES</SimpleData>
+		<SimpleData name="direccion">PLAZA DE LOS RIOS 3</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.91201855736933,37.8496607158978</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#farmacias">
+		<SimpleData name="id_dera">11213400009507</SimpleData>
+		<SimpleData name="nica">5076</SimpleData>
+		<SimpleData name="nombre">FARMACIA Nº 30010 SANTOS EXPOSITO, MARÍA ISABEL</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE LA PAZ S/N</SimpleData>
+		<SimpleData name="cod_mun">14021</SimpleData>
+		<SimpleData name="municipio">Córdoba</SimpleData>
+		<SimpleData name="provincia">Córdoba</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-4.81550147288146,37.8801753310721</coordinates></Point></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
